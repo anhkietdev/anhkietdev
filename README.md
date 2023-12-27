@@ -1,5 +1,6 @@
 ### About Me
-Hi, I'm **Truong Anh Kiet**, a backend developer. The more I code, the more I see the need of **learning and updating**. This journal is my way of keeping track and see how far I can go in the future.
+Hi, I'm **Truong Anh Kiet**, a backend developer. The more I code, the more I see the need of **learning and updating**. 
+This journal is my way of keeping track and see how far I can go in the future.
 
 ### What I'm Into
 I'm committed to mastering the following technologies throughout my career:
@@ -9,7 +10,7 @@ I'm committed to mastering the following technologies throughout my career:
 - React
 
 ### Daily Goal
-I promise to spend at least one hour every day on C#/.Net and other techie stuff.
+I promise to spend **at least 1 hour every day** on C#/.Net and other techie stuff.
 
 Here's to growing and getting better every day! 🚀
 
