@@ -1,4 +1,6 @@
 ### Hi there 👋
+### About Me
+Hi, I'm **Truong Anh Kiet**, a backend developer. The more I code, the more I see the need of **learning and updating**. This journal is my way of keeping track and see how far I can go in the future.
 
 <!--
 **anhkietdev/anhkietdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
