@@ -1,4 +1,4 @@
-### About Me
+<!---### About Me
 Hi, I'm **Truong Anh Kiet**, a backend developer. The more I code, the more I see the need of **learning and updating**. 
 This journal is my way of keeping track and see how far I can go in the future.
 
@@ -12,7 +12,9 @@ I'm committed to mastering the following technologies throughout my career:
 ### Daily Goal
 I promise to spend **at least 1 hour every day** on C#/.Net and other techie stuff.
 
-Here's to growing and getting better every day! 🚀
+Here's to growing and getting better every day! 🚀-->
+
+
 
 <!--
 **anhkietdev/anhkietdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
